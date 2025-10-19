@@ -48,3 +48,9 @@ Vite – A modern build tool for faster and optimized React development.
 CSS – For styling and layout design.
 
 GitHub Pages – For hosting and deploying the live version of the website.
+
+# Live Demo
+## Github Pages URL:
+[https://Lei0619.github.io/personal-portfolio/](https://Lei0619.github.io/personal-portfolio/)
+## Demo Recording
+https://drive.google.com/drive/folders/1jVHWSNZjhy4kFfX0KRksc9pgggvjQhPI?usp=sharing

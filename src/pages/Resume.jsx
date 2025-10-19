@@ -11,12 +11,12 @@ const Resume = () => {
               Download my resume to learn more about my experience and qualifications.
             </p>
             <a
-              href="/Lei Ann Judea Dico.pdf"
+              href={`${import.meta.env.BASE_URL}Lei Ann Judea Dico.pdf`}
               download="Lei Ann Judea Dico.pdf"
               className="cta-button cta-primary"
             >
-              Download Resume
-            </a>
+  Download Resume
+</a>
           </div>
         </div>
       </div>
